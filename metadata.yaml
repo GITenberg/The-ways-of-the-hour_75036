@@ -1,0 +1,34 @@
+_repo: The-ways-of-the-hour_75036
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooper, James Fenimore
+    aliases:
+    - Morgan, Jane
+    - Cooper, Fenimore
+    - Cooper, J. Fenimore (James Fenimore)
+    birthdate: 1789
+    deathdate: 1851
+    gutenberg_agent_id: '483'
+    url: http://www.gutenberg.org/2009/agents/483
+    wikipedia: https://en.wikipedia.org/wiki/James_Fenimore_Cooper
+description: ''
+gutenberg_issued: '2025-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75036'
+language: en
+pgterms:marc904: https://archive.org/details/worksofjamescoop0024coop/page/512/mode/2up
+pgterms:marc905: 20220206214450cooper
+pgterms:marc906: '1861'
+pgterms:marc907: us
+production_note: KD Weeks and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bD. Appleton and Company, $c1861.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The ways of the hour
+url: http://www.gutenberg.org/ebooks/75036
