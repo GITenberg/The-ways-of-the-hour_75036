@@ -1,5 +1,8 @@
 _repo: The-ways-of-the-hour_75036
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75036-h/images/cover.jpg
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/483
     wikipedia: https://en.wikipedia.org/wiki/James_Fenimore_Cooper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75036#The-ways-of-the-hour
 gutenberg_issued: '2025-01-04'
 gutenberg_type: Text
 identifiers:
